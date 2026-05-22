@@ -1,4 +1,4 @@
-#### Züri wie neu
+#### Züri wie neu
 
 This project examines how citizen-reported urban issues in Zurich are distributed across neighborhoods and how their intensity, development, and categories have changed between 2014 and 2025. It combines reports of issues with infrastructure, statistical neighbourhood boundaries, and neighbourhood population data to identify where urban problems are most concentrated and how they evolve over time.
 
@@ -70,3 +70,5 @@ Execute from top to bottom.
 I used ChatGPT (OpenAI GPT-5.5) during the preparation of this project to improve grammar and formulation, improve code structure and readability, debug code, and improve the visual design and formatting of maps and graphs.
 
 All AI-assisted code, analysis decisions, interpretations, and written content were reviewed, and further modified. I understood all suggested solutions.
+
+Apart from the uses listed above, no AI tools were used in the preparation of this submission, and all final logic and writing was verified by me.
