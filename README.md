@@ -1,6 +1,10 @@
-### Züri wie neu
+#### Züri wie neu
 
 This project examines how citizen-reported urban issues in Zurich are distributed across neighborhoods and how their intensity, development, and categories have changed between 2014 and 2025. It combines reports of issues with infrastructure, statistical neighbourhood boundaries, and neighbourhood population data to identify where urban problems are most concentrated and how they evolve over time.
+
+
+
+
 
 
 #### Datasets
@@ -16,12 +20,21 @@ The datasets are form https://data.stadt-zuerich.ch/dataset:
 The datasets need to contain data from 2014-2025 (full years).
 
 
+
+
+
+
 #### Repository structure
 
 data/raw/: raw datasets
 data/processed/: processed datasets
 notebooks/: Jupyter notebook of Zurich wie neu
 outputs/maps/: maps exported from the notebook
+
+
+
+
+
 
 #### Setup
 
@@ -35,6 +48,11 @@ geopandas
 pandas 
 matplotlib 
 mapclassify
+
+
+
+
+
 
 #### Execution Order
 
