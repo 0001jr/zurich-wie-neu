@@ -9,12 +9,9 @@ This project examines how citizen-reported urban issues in Zurich are distribute
 
 #### Datasets
 
-The datasets are form https://data.stadt-zuerich.ch/dataset: 
-
+The datasets are form https://data.stadt-zuerich.ch/dataset (16.05.2026): 
 - Reports from Züri wie neu: https://data.stadt-zuerich.ch/dataset/geo_zueri_wie_neu
-
 - Statistische Quartiere (Neighborhoods): https://data.stadt-zuerich.ch/dataset/geo_statistische_quartiere
-
 - Population by neighbourhood https://data.stadt-zuerich.ch/dataset/bev_bestand_jahr_quartier_od3240
 
 The datasets need to contain data from 2014-2025 (full years).
@@ -57,7 +54,6 @@ mapclassify
 #### Execution Order
 
 Run the notebook zuri-wie-neu: https://github.com/0001jr/zurich-wie-neu/blob/main/notebooks/zuri-wie-neu.ipynb
-
 Execute from top to bottom.
 
 
@@ -68,7 +64,5 @@ Execute from top to bottom.
 #### AI use disclosure
 
 I used ChatGPT (OpenAI GPT-5.5) during the preparation of this project to improve grammar and formulation, improve code structure and readability, debug code, and improve the visual design and formatting of maps and graphs.
-
 All AI-assisted code, analysis decisions, interpretations, and written content were reviewed, and further modified. I understood all suggested solutions.
-
 Apart from the uses listed above, no AI tools were used in the preparation of this submission, and all final logic and writing was verified by me.
