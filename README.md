@@ -1,4 +1,4 @@
-## Züri wie neu
+### Züri wie neu
 
 This project examines how citizen-reported urban issues in Zurich are distributed across neighborhoods and how their intensity, development, and categories have changed between 2014 and 2025. It combines reports of issues with infrastructure, statistical neighbourhood boundaries, and neighbourhood population data to identify where urban problems are most concentrated and how they evolve over time.
 
