@@ -59,3 +59,14 @@ mapclassify
 Run the notebook zuri-wie-neu: https://github.com/0001jr/zurich-wie-neu/blob/main/notebooks/zuri-wie-neu.ipynb
 
 Execute from top to bottom.
+
+
+
+
+
+
+#### AI use disclosure
+
+I used ChatGPT (OpenAI GPT-5.5) during the preparation of this project to improve grammar and formulation, improve code structure and readability, debug code, and improve the visual design and formatting of maps and graphs.
+
+All AI-assisted code, analysis decisions, interpretations, and written content were reviewed, and further modified. I understood all suggested solutions.
